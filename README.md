@@ -13,7 +13,7 @@ This project was developed for **VOLTAICS'25 Hackathon** conducted by **Havoltz 
 - **Simulation parameters:** Configurable physics engine, control frequency, and GUI.
 
 ## Demo
-![Simulation Video](assets/demo.mp4)
+![Simulation Video](https://github.com/atPavithran/Drone-navigation-system/blob/main/assets/demo.mp4)
 
 ## Installation
 Clone this repository and navigate to the project directory:
