@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./gym_pybullet_drones/envs"
+    ]
+}

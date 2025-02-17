@@ -1,0 +1,4 @@
+numpy
+pybullet
+gym_pybullet_drones
+gym
