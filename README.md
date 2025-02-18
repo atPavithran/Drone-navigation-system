@@ -57,6 +57,11 @@ Modify parameters such as:
 ## Acknowledgment
 This project was developed as part of **VOLTAICS'25 Hackathon** conducted by **Havoltz Club**, where it secured **First Place**.
 
+### Team Members:
+- **Pavithran M (Myself)**
+- [**Allen Joseph N**](https://github.com/terfefed)
+- [**Manivel K**](https://github.com/vel190704)
+
 ## License
 This project is open-source and available under the MIT License.
 
